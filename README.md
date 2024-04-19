@@ -15,6 +15,8 @@
 * 🧠  I'm learning and mastering TypeScript and Next JS
 * 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  Some Times I am batman 🦇....Dont tell anyone🤫
+* Learning GraphQl NextJs & Typescript
+  with Javascript, Typescript, React and 69 others.
 
 <h1 id="tech-stack">💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h1>
 
