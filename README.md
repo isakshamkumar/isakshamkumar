@@ -1,5 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Saksham Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-=====================================================================================================================================
+<h2>नमस्ते (Namaste)🙏🏻, I'm Saksham Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" height="50" width="50"></h2>
 
 Full Stack Web Developer, Web Designer
 --------------------------------------
