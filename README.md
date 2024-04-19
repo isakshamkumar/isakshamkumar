@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 Full Stack Web Developer, Web Designer
-<br/>
+--------------------------------------
 <p align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Enthusiast;Always%20developing%20my%20skills&amp;center=true&amp;width=380&amp;height=45"></p>
 --------------------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isakshamkumar&label=Profile%20views&color=0e75b6&style=flat" alt="isakshamkumar" /> </p>
