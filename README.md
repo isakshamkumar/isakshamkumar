@@ -5,6 +5,8 @@
 ### Full Stack Web Developer, Web Designer
 
 <p align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Enthusiast;Always%20developing%20my%20skills&amp;center=false&amp;width=380&amp;height=28"></p>
+<p><a href="https://www.linkedin.com/in/saksham-kumar-274742248"><img src="https://img.shields.io/badge/LinkedIn-Saksham-blue" alt=""></a>
+<a href="mailto:ksaksham39@gmail.com"><img src="https://img.shields.io/badge/Gmail-ksaksham39@gmail.com-red" alt=""></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isakshamkumar&label=Profile%20views&color=0e75b6&style=flat" alt="isakshamkumar" /> </p>
 👋 Hi there! I’m a Full Stack Developer with a stronger affinity for Backend Development. I’ve built several projects, honing my skills and expanding my knowledge base. Open Source contributions are my passion, and I believe in the power of community-driven development. I’m proud to have won 2 hackathons, demonstrating my ability to work under pressure and come up with innovative solutions. My experience also includes a 2-month paid internship at Tweek Labs, a startup at IIID Delhi, where I was able to apply my skills in a real-world setting. I’m always eager to learn and grow. Let’s connect and build something amazing together! 🚀
 
