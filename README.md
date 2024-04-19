@@ -23,9 +23,53 @@
 <h1 id="tech-stack">💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h1>
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+<p><img src="http://img.shields.io/badge/-Java-e8892f?style=flat-square&amp;logo=java&amp;logoColor=white" alt="Java">
+<img src="http://img.shields.io/badge/-Sql-00758f?style=flat-square&amp;logo=Mysql&amp;logoColor=white" alt="Sql">
+<img src="http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="Javascript">
+<img src="http://img.shields.io/badge/-Html-e24c27?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="Html">
+<img src="http://img.shields.io/badge/-Css-2a65f1?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="Css">
+<img src="http://img.shields.io/badge/-Sass-cc6699?style=flat-square&amp;logo=sass&amp;logoColor=white" alt="Sass">
+<img src="http://img.shields.io/badge/-Less-254c7d?style=flat-square&amp;logo=less&amp;logoColor=white" alt="Less">
+<img src="http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="Typescript">
+<img src="http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&amp;logo=gnu-bash&amp;logoColor=black" alt="Shell">
+<img src="http://img.shields.io/badge/-Scala-dd3734?style=flat-square&amp;logo=scala&amp;logoColor=white" alt="Scala">
+<img src="http://img.shields.io/badge/-Python-346e9e?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+<img src="http://img.shields.io/badge/-Go-69d7e4?style=flat-square&amp;logo=go&amp;logoColor=black" alt="Go">
+<img src="http://img.shields.io/badge/-Markdown-white?style=flat-square&amp;logo=markdown&amp;logoColor=black" alt="Markdown">
+<img src="http://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin">
+<img src="http://img.shields.io/badge/-Php-767bb3?style=flat-square&amp;logo=php&amp;logoColor=white" alt="Php"></p>
+<p><img src="http://img.shields.io/badge/-Spring-6db33f?style=flat-square&amp;logo=spring&amp;logoColor=white" alt="Spring">
+<img src="http://img.shields.io/badge/-Springboot-629e3a?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Springboot">
+<img src="http://img.shields.io/badge/-Project%20Reactor-6db33f?style=flat-square&amp;logo=react&amp;logoColor=white" alt="Project Reactor">
+<img src="http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&amp;logo=vue.js&amp;logoColor=white" alt="Vue.js">
+<img src="http://img.shields.io/badge/-Gin-3190d1?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Gin">
+<img src="http://img.shields.io/badge/-Flask-white?style=flat-square&amp;logo=flask&amp;logoColor=black" alt="Flask">
+<img src="http://img.shields.io/badge/-Pytest-white?style=flat-square&amp;logo=pytest" alt="Pytest">
+<img src="http://img.shields.io/badge/-Swoole-338eef?style=flat-square&amp;logo=php&amp;logoColor=white" alt="Swoole">
+<img src="http://img.shields.io/badge/-Kotlinx%20Coroutines-7f52ff?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlinx Coroutines"></p>
+<p><img src="http://img.shields.io/badge/-Linux-fad134?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux">
+<img src="http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
+<img src="http://img.shields.io/badge/-Docker-3596ed?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
+<img src="http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes"></p>
+<p><img src="http://img.shields.io/badge/-Mysql-white?style=flat-square&amp;logo=mysql" alt="Mysql">
+<img src="http://img.shields.io/badge/-Redis-white?style=flat-square&amp;logo=redis" alt="Redis">
+<img src="http://img.shields.io/badge/-MongoDb-white?style=flat-square&amp;logo=mongodb" alt="MongoDb">
+<img src="http://img.shields.io/badge/-RocketMq-white?style=flat-square&amp;logo=apacherocketmq" alt="RocketMq">
+<img src="http://img.shields.io/badge/-Kafka-white?style=flat-square&amp;logo=apachekafka&amp;logoColor=black" alt="Kafka">
+<img src="http://img.shields.io/badge/-RabbitMq-white?style=flat-square&amp;logo=rabbitmq" alt="RabbitMq">
+<img src="http://img.shields.io/badge/-Hive-white?style=flat-square&amp;logo=apachehive" alt="Hive">
+<img src="http://img.shields.io/badge/-Spark-white?style=flat-square&amp;logo=apachespark" alt="Spark">
+<img src="http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&amp;logo=elasticsearch&amp;logoColor=black" alt="ElasticSearch"></p>
+<p><img src="http://img.shields.io/badge/-Subversion-white?style=flat-square&amp;logo=subversion" alt="Subversion">
+<img src="http://img.shields.io/badge/-Git-white?style=flat-square&amp;logo=git" alt="Git">
+<img src="http://img.shields.io/badge/-Maven-white?style=flat-square&amp;logo=apachemaven&amp;logoColor=bc2043" alt="Maven">
+<img src="http://img.shields.io/badge/-Gradle-white?style=flat-square&amp;logo=gradle&amp;logoColor=09303a" alt="Gradle">
+<img src="http://img.shields.io/badge/-Npm-white?style=flat-square&amp;logo=npm&amp;logoColor=white" alt="Npm">
+<img src="http://img.shields.io/badge/-Vgo-white?style=flat-square&amp;logo=go" alt="Vgo"></p>
+<p><img src="http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&amp;logo=eclipse&amp;logoColor=white" alt="Eclipse">
+<img src="http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&amp;logo=intellijidea&amp;logoColor=white" alt="IntelliJ IDEA">
+<img src="http://img.shields.io/badge/-VS%20Code-black?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=3aa7f2" alt="VS Code">
+<img src="http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&amp;logo=sublimetext" alt="Sublime Text"></p>
 
 
 ### Socials
