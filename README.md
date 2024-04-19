@@ -1,4 +1,5 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Saksham Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" height="50" width="50"></h2>
+  <h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 Full Stack Web Developer, Web Designer
 --------------------------------------
