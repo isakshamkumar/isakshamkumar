@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" style="margin-top: 60px !important;">
 
 
-Full Stack Web Developer, Web Designer
+### Full Stack Web Developer, Web Designer
 
 <p align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Enthusiast;Always%20developing%20my%20skills&amp;center=false&amp;width=380&amp;height=28"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isakshamkumar&label=Profile%20views&color=0e75b6&style=flat" alt="isakshamkumar" /> </p>
