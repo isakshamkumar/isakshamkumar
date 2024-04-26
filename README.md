@@ -9,10 +9,9 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/saksham-kumar-274742248"><img src="https://img.shields.io/badge/LinkedIn-Saksham-blue" alt=""></a>
 <a target="_blank" href="mailto:ksaksham39@gmail.com"><img src="https://img.shields.io/badge/Gmail-ksaksham39@gmail.com-red" alt=""></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isakshamkumar&label=Profile%20views&color=0e75b6&style=flat" alt="isakshamkumar" /> </p>
-👋 Hi there! I’m a Full Stack Developer with a stronger affinity for Backend Development. I’ve built several projects, honing my skills and expanding my knowledge base. Open Source contributions are my passion, and I believe in the power of community-driven development. I’m proud to have won 2 hackathons, demonstrating my ability to work under pressure and come up with innovative solutions. My experience also includes a 2-month paid internship at Tweek Labs, a startup at IIID Delhi, where I was able to apply my skills in a real-world setting. I’m always eager to learn and grow. Let’s connect and build something amazing together! 🚀
+👋 Hi there! I’m a Full Stack Developer with a stronger affinity for Backend Development. I’ve built several projects, honing my skills and expanding my knowledge base. Open Source contributions are my passion, and I believe in the power of community-driven development. I’m proud to have won several hackathons, demonstrating my ability to work under pressure and come up with innovative solutions. I have worked with international startups in full stack development 🚀
 
 * 🌍  I'm based in New Delhi, India
-* ✉️  You can contact me at [ksaksham39@gmail.com](mailto:ksaksham39@gmail.com)
 * 🧠  I'm learning and mastering TypeScript and Next JS
 * 🤝  I'm open to collaborating on Open Source Projects
 * 🥀 Learning GraphQl NextJs & Typescript
