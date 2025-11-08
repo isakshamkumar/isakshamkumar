@@ -27,10 +27,10 @@
 - Built an autonomous job-hunting bot that applied to 1K+ roles each month.
 
 <div style="clear: both;"></div>
-<h3 style="margin-top:32px;">Contribution maze</h3>
+<h3 style="margin-top:52px;">Contribution maze</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph.svg" alt="Contribution maze" style="display:block;margin-top:12px;width:100%;max-width:820px;height:150px;" />
+  <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph.svg" alt="Contribution maze" style="display:block;margin-top:12px;width:100%;max-width:820px;height:180px;" />
 </picture>
 
 ### Now playing
