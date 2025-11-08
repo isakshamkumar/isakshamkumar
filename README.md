@@ -31,7 +31,7 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tp7qxxm5vemwt5thlj43ahpm44&count=3&unique=true" alt="Spotify recently played" />
 </a>
 
-### Pac-Man contribution maze
+### Contribution maze
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph-dark.svg">
   <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
