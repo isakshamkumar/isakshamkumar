@@ -36,7 +36,7 @@
 
 ### Now playing
 <!-- <a href="https://open.spotify.com/user/31tp7qxxm5vemwt5thlj43ahpm44"> -->
-  <img src="https://spotify-widget-lime.vercel.app/api/recently-played?count=4&unique=true" alt="Spotify recently played" />
+  <img src="https://spotify-widget-lime.vercel.app/api/recently-played?count=5&unique=true" alt="Spotify recently played" />
 <!-- </a> -->
 
 ### Toolbox
