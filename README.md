@@ -26,16 +26,16 @@
 - Always up for conversations about distributed systems & agent architectures.
 - Built an autonomous job-hunting bot that applied to 1K+ roles each month.
 
+### Contribution maze
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph.svg" alt="Contribution maze" width="520" height="260" />
+</picture>
+
 ### Now playing
 <a href="https://open.spotify.com/user/31tp7qxxm5vemwt5thlj43ahpm44">
   <img src="https://spotify-widget-lime.vercel.app/api/recently-played?count=4&unique=true" alt="Spotify recently played" />
 </a>
-
-### Contribution maze
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
-</picture>
 
 ### Toolbox
 - `Languages`: TypeScript, Python, Rust, Java, C/C++, SQL
