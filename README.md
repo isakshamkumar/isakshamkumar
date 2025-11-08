@@ -26,10 +26,12 @@
 - Always up for conversations about distributed systems & agent architectures.
 - Built an autonomous job-hunting bot that applied to 1K+ roles each month.
 
+<div style="clear: both;"></div>
+
 ### Contribution maze
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph.svg" alt="Contribution maze" width="520" height="260" />
+  <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph.svg" alt="Contribution maze" style="width:100%;max-width:640px;height:auto;" />
 </picture>
 
 ### Now playing
