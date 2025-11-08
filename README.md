@@ -28,16 +28,16 @@
 
 <div style="clear: both;"></div>
 
-### Contribution maze
+<h3 style="margin-top:32px;">Contribution maze</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph.svg" alt="Contribution maze" style="width:100%;max-width:640px;height:auto;" />
+  <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph.svg" alt="Contribution maze" style="display:block;margin-top:12px;width:100%;max-width:820px;height:auto;" />
 </picture>
 
 ### Now playing
-<a href="https://open.spotify.com/user/31tp7qxxm5vemwt5thlj43ahpm44">
-  <img src="https://spotify-widget-lime.vercel.app/api/recently-played?count=4&unique=true" alt="Spotify recently played" />
-</a>
+<!-- <a href="https://open.spotify.com/user/31tp7qxxm5vemwt5thlj43ahpm44"> -->
+  <img src="https://spotify-widget-lime.vercel.app/api/recently-played?count=3&unique=true" alt="Spotify recently played" />
+<!-- </a> -->
 
 ### Toolbox
 - `Languages`: TypeScript, Python, Rust, Java, C/C++, SQL
