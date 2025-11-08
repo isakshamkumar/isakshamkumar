@@ -45,7 +45,10 @@
 ## 🕹️ Pac-Man Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman.svg" alt="Pac-Man Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph-dark.svg">
+    <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
+  </picture>
 </p>
 
 ---
