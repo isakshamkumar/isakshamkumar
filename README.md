@@ -2,7 +2,7 @@
 
 <h1 align="center">नमस्ते (Namaste) 🙏🏻 I'm Saksham Kumar</h1>
 
-<p align="center">Founding Engineer @ Poplar AI · Building production agentic systems and automation.</p>
+<p align="center">Software Dev - Building production agentic systems and automation.</p>
 
 <p align="center">
   <a href="mailto:ksaksham39@gmail.com">@zsh</a> •
