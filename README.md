@@ -31,7 +31,7 @@
 <h3 style="margin-top:32px;">Contribution maze</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph.svg" alt="Contribution maze" style="display:block;margin-top:12px;width:100%;max-width:820px;height:auto;" />
+  <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph.svg" alt="Contribution maze" style="display:block;margin-top:12px;width:100%;max-width:820px;min-height:500px;" />
 </picture>
 
 ### Now playing
