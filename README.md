@@ -83,8 +83,8 @@
   <tr>
     <td align="center">
       <strong>Spotify Recently Played</strong><br>
-      <a href="https://spotify-recently-played-readme.vercel.app">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tp7qxxm5vemwt5thlj43ahpm44" alt="Spotify Recently Played Preview" />
+      <a href="https://open.spotify.com/user/31tp7qxxm5vemwt5thlj43ahpm44">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tp7qxxm5vemwt5thlj43ahpm44&count=3&unique=true" alt="Spotify Recently Played Preview" />
       </a>
     </td>
     <td align="center">
