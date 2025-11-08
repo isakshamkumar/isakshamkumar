@@ -1,0 +1,25 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update content
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: abozanona/pacman-contribution-graph@v1.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: "isakshamkumar"
+      - name: Push to output branch
+        run: |
+          git config --global user.name "Pacman Bot"
+          git config --global user.email "pacman-bot@example.com"
+          git add -A
+          git commit -m "Update Pac-Man contribution graph" || echo "No changes to commit"
+          git push --force origin HEAD:output
+

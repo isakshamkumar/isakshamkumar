@@ -2,6 +2,16 @@
   <h2>नमस्ते (Namaste)🙏🏻, I'm Saksham Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" style="margin-top: 60px !important;">
 
+<p align="center">
+  <a href="mailto:ksaksham39@gmail.com">@zsh</a>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=isakshamkumar&label=Profile%20Views&color=12&icon=0" alt="Visitor Count"/>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 # 💫 About Me:
 🖱️ **Currently:** Founding Engineer at Poplar AI building production AI agents and social media automation platform<br><br>👥 **Open to:** Collaborating on AI agent frameworks, full-stack projects, and LLM-powered applications<br><br>🌱 **Learning:** Advanced AWS patterns, distributed systems, and production-grade agentic architectures<br><br>💬 **Ask me about:** AI agents, or building 0→1 products<br><br>⚡ **Fun fact:** Built an autonomous job application bot that applied to 1K+ positions monthly<br>
 
@@ -21,6 +31,22 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+## 🎧 Spotify Recently Played
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tp7qxxm5vemwt5thlj43ahpm44" alt="Spotify Recently Played Preview" />
+</p>
+
+---
+
+## 🕹️ Pac-Man Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman.svg" alt="Pac-Man Contribution Graph" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=isakshamkumar&icon=0&color=4)](https://visitcount.itsvg.in)
