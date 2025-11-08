@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=isakshamkumar&label=Views&color=12&icon=0" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=isakshamkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -58,9 +58,7 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=isakshamkumar&icon=0&color=4" alt="Visitor Counter">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=isakshamkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
